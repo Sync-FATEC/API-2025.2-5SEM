@@ -94,4 +94,4 @@ Points)</td>
 </table>
 
 <h2>Modelo de dados</h2>
-<img src="https://github.com/Sync-FATEC/API-2025.2/blob/main/sprints/sprint01/modelo-de-dados.jpeg">
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint01/modelo-de-dados.jpg">

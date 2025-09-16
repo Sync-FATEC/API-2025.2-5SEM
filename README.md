@@ -142,7 +142,7 @@
     <td>01</td>
     <td>08/09/2025</td>
     <td>28/09/2025</td>
-    <td><a href="https://github.com/Sync-FATEC/API-2025.2/tree/main/sprints/sprint01/sprint01.md">Relatório</a></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint01/sprint01.md">Relatório</a></td> 
     <td>🔁</td>
   </tr>
   <tr align="center">
