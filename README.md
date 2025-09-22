@@ -1,4 +1,4 @@
-
+<h2 id='topo'><img src="media/banner_apresentacao.png"></h2>
 <div align="center">
 <a href="#descricao"> 🎯 Descrição do projeto </a> |
 <a href="#requisitos-funcionais"> 📚 Requisitos Funcionais </a> |

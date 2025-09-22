@@ -4,11 +4,11 @@
   <tbody>
     <tr>
       <td><strong>Capacidade estimada da Equipe por</strong></td>
-      <td>46 Story Points</td>
+      <td>51 Story Points</td>
     </tr>
     <tr>
       <td><strong>Meta da Sprint</strong></td>
-      <td>User Stories de rank 1 e rank 10 (total de 46 Story
+      <td>User Stories de rank 1 e rank 11 (total de 51 Story
 Points)</td>
     </tr>
     <tr>
@@ -84,8 +84,14 @@ Points)</td>
       <td>O sistema deve gerar o QR Code e enviar para impressão.</td>
       <td>2</td>
     </tr>
+     <tr>
+    <td>10</td>
+      <td>Como administrador, quero cadastrar, editar, visualizar e excluir seções (instituições) e vincular cada pedido a uma seção, para organizar os pedidos por área/entidade e facilitar a gestão.</td>
+      <td>O sistema deve garantir que cada Pedido tenha uma Seção obrigatória, impedindo nomes vazios ou duplicados, bloqueando exclusões com pedidos vinculados, exibindo apenas Seções ativas no select.</td>
+      <td>5</td>
+    </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Como administrador, quero editar as informações do produto, para corrigir erros ou atualizar valores.</td>
       <td>O sistema deve permitir edição de qualquer campo cadastrado do produto.</td>
       <td>3</td>
