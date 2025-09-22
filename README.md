@@ -1,4 +1,3 @@
-<h2 id='topo'><img src="media/banner_apresentacao.png"></h2>
 
 <div align="center">
 <a href="#descricao"> 🎯 Descrição do projeto </a> |
@@ -69,27 +68,28 @@
     <tr><td>7</td><td>ALTA</td><td>Como administrador, quero poder excluir um item do inventário, para remover produtos descontinuados.</td><td>2</td><td>1</td></tr>
     <tr><td>8</td><td>ALTA</td><td>Como administrador, quero cadastrar e gerenciar usuários com níveis de acesso, para controlar quem pode fazer alterações no sistema.</td><td>8</td><td>1</td></tr>
     <tr><td>9</td><td>ALTA</td><td>Como usuário, quero poder clicar no botão “imprimir" para obter o QR Code impresso</td><td>2</td><td>1</td></tr>
-    <tr><td>10</td><td>ALTA</td><td>Como administrador, quero editar as informações do produto, para corrigir erros ou atualizar valores.</td><td>3</td><td>1</td></tr>
-    <tr><td>11</td><td>MÉDIA</td><td>Como administrador, quero receber alertas de produtos com estoque próximo ou abaixo do mínimo, para evitar desabastecimento.</td><td>5</td><td>2</td></tr>
-    <tr><td>12</td><td>MÉDIA</td><td>Como administrador, quero ver a média de consumo dos produtos em um intervalo de tempo, para prever compras futuras.</td><td>8</td><td>2</td></tr>
-    <tr><td>13</td><td>MÉDIA</td><td>Como usuário, quero visualizar e editar meu perfil, para manter meus dados atualizados.</td><td>2</td><td>2</td></tr>
-    <tr><td>14</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico do inventário, para controlar as entradas e saídas daquele produto</td><td>5</td><td>2</td></tr>
-    <tr><td>15</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico de alterações dos produtos e quem realizou a alteração</td><td>8</td><td>2</td></tr>
-    <tr><td>16</td><td>MÉDIA</td><td>Como administrador, quero exportar os dados da dashboard em formato de excel e PDF</td><td>8</td><td>2</td></tr>
-    <tr><td>17</td><td>MÉDIA</td><td>Como administrador, quero poder disparar e-mail de cobranças para os fornecedores</td><td>8</td><td>2</td></tr>
-    <tr><td>18</td><td>MÉDIA</td><td>Como administrador, quero poder adicionar em massa vários usuários por meio de uma planilha de excel, contendo as informações de nome, e-mail e senha.</td><td>13</td><td>2</td></tr>
-    <tr><td>19</td><td>MÉDIA</td><td>Como administrador, quero acessar o dashboard por uma plataforma web para agilidade</td><td>5</td><td>2</td></tr>
-    <tr><td>20</td><td>MÉDIA</td><td>Como administrador, quero cadastrar usuários por uma plataforma web para agilidade</td><td>5</td><td>2</td></tr>
-    <tr><td>21</td><td>BAIXA</td><td>Como usuário, quero poder alterar minha senha</td><td>2</td><td>3</td></tr>
-    <tr><td>22</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema</td><td>8</td><td>3</td></tr>
-    <tr><td>23</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema</td><td>5</td><td>3</td></tr>
-    <tr><td>24</td><td>BAIXA</td><td>Como usuário, quero poder agendar exames para os pacientes</td><td>5</td><td>3</td></tr>
-    <tr><td>25</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do agendamento para confirmado, cancelado e não compareceu</td><td>3</td><td>3</td></tr>
-    <tr><td>26</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do exame dos pacientes para agendado, realizado, disponível e retirado</td><td>5</td><td>3</td></tr>
-    <tr><td>27</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames</td><td>3</td><td>3</td></tr>
-    <tr><td>28</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames</td><td>2</td><td>3</td></tr>
-    <tr><td>29</td><td>BAIXA</td><td>Como paciente, quero poder cancelar um agendamento</td><td>2</td><td>3</td></tr>
-    <tr><td>30</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado</td><td>8</td><td>3</td></tr>
+    <tr><td>10</td><td>ALTA</td><td>Como administrador, quero cadastrar, editar, visualizar e excluir seções (instituições) e vincular cada pedido a uma seção, para organizar os pedidos por área/entidade e facilitar a gestão.</td><td>5</td><td>1</td></tr>
+    <tr><td>11</td><td>ALTA</td><td>Como administrador, quero editar as informações do produto, para corrigir erros ou atualizar valores.</td><td>3</td><td>1</td></tr>
+    <tr><td>12</td><td>MÉDIA</td><td>Como administrador, quero receber alertas de produtos com estoque próximo ou abaixo do mínimo, para evitar desabastecimento.</td><td>5</td><td>2</td></tr>
+    <tr><td>13</td><td>MÉDIA</td><td>Como administrador, quero ver a média de consumo dos produtos em um intervalo de tempo, para prever compras futuras.</td><td>8</td><td>2</td></tr>
+    <tr><td>14</td><td>MÉDIA</td><td>Como usuário, quero visualizar e editar meu perfil, para manter meus dados atualizados.</td><td>2</td><td>2</td></tr>
+    <tr><td>15</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico do inventário, para controlar as entradas e saídas daquele produto</td><td>5</td><td>2</td></tr>
+    <tr><td>16</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico de alterações dos produtos e quem realizou a alteração</td><td>8</td><td>2</td></tr>
+    <tr><td>17</td><td>MÉDIA</td><td>Como administrador, quero exportar os dados da dashboard em formato de excel e PDF</td><td>8</td><td>2</td></tr>
+    <tr><td>18</td><td>MÉDIA</td><td>Como administrador, quero poder disparar e-mail de cobranças para os fornecedores</td><td>8</td><td>2</td></tr>
+    <tr><td>19</td><td>MÉDIA</td><td>Como administrador, quero poder adicionar em massa vários usuários por meio de uma planilha de excel, contendo as informações de nome, e-mail e senha.</td><td>13</td><td>2</td></tr>
+    <tr><td>20</td><td>MÉDIA</td><td>Como administrador, quero acessar o dashboard por uma plataforma web para agilidade</td><td>5</td><td>2</td></tr>
+    <tr><td>21</td><td>MÉDIA</td><td>Como administrador, quero cadastrar usuários por uma plataforma web para agilidade</td><td>5</td><td>2</td></tr>
+    <tr><td>22</td><td>BAIXA</td><td>Como usuário, quero poder alterar minha senha</td><td>2</td><td>3</td></tr>
+    <tr><td>23</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema</td><td>8</td><td>3</td></tr>
+    <tr><td>24</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema</td><td>5</td><td>3</td></tr>
+    <tr><td>25</td><td>BAIXA</td><td>Como usuário, quero poder agendar exames para os pacientes</td><td>5</td><td>3</td></tr>
+    <tr><td>26</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do agendamento para confirmado, cancelado e não compareceu</td><td>3</td><td>3</td></tr>
+    <tr><td>27</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do exame dos pacientes para agendado, realizado, disponível e retirado</td><td>5</td><td>3</td></tr>
+    <tr><td>28</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames</td><td>3</td><td>3</td></tr>
+    <tr><td>29</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames</td><td>2</td><td>3</td></tr>
+    <tr><td>30</td><td>BAIXA</td><td>Como paciente, quero poder cancelar um agendamento</td><td>2</td><td>3</td></tr>
+    <tr><td>31</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado</td><td>8</td><td>3</td></tr>
   </tbody>
 </table>
 
