@@ -101,3 +101,7 @@ Points)</td>
 
 <h2>Modelo de dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint01/modelo-de-dados.jpg">
+
+<h2>Mockups</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/2fb42a3c-ba27-4288-b570-9d13517dae30" 
+alt="MVP">
