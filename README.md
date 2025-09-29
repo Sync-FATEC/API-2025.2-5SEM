@@ -143,14 +143,14 @@
     <td>08/09/2025</td>
     <td>28/09/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint01/sprint01.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>02</td>
     <td>06/10/2025</td>
     <td>26/10/2025</td>
-    <td></td> 
-    <td>❌</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint02/sprint02.md">Relatório</a></td> 
+    <td>🔁</td>
   </tr>
   <tr align="center">
     <td>03</td>
