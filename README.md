@@ -90,6 +90,33 @@
     <tr><td>29</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames</td><td>2</td><td>3</td></tr>
     <tr><td>30</td><td>BAIXA</td><td>Como paciente, quero poder cancelar um agendamento</td><td>2</td><td>3</td></tr>
     <tr><td>31</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado</td><td>8</td><td>3</td></tr>
+    <tr><td>12</td><td>MÉDIA</td><td>Como usuário, quero poder aplicar filtros na listagem de itens do estoque, para visualizar apenas os produtos que atendem aos critérios desejados e facilitar a busca por informações específicas.</td><td>5</td><td>2</td></tr>
+    <tr><td>13</td><td>MÉDIA</td><td>Como administrador, quero receber alertas de produtos com estoque próximo ou abaixo do mínimo, para evitar desabastecimento.</td><td>5</td><td>2</td></tr>
+    <tr><td>14</td><td>MÉDIA</td><td>Como administrador, quero ver a média de consumo dos produtos em um intervalo de tempo, para prever compras futuras.</td><td>8</td><td>2</td></tr>
+    <tr><td>15</td><td>MÉDIA</td><td>Como usuário, quero visualizar e editar meu perfil, para manter meus dados atualizados.</td><td>2</td><td>2</td></tr>
+    <tr><td>16</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico do inventário, para controlar as entradas e saídas daquele produto.</td><td>5</td><td>2</td></tr>
+    <tr><td>17</td><td>MÉDIA</td><td>Como usuário, quero poder visualizar o histórico de alterações dos produtos e quem realizou a alteração.</td><td>8</td><td>2</td></tr>
+    <tr><td>18</td><td>MÉDIA</td><td>Como administrador, quero exportar os dados da dashboard em formato de Excel e PDF.</td><td>8</td><td>2</td></tr>
+    <tr><td>19</td><td>MÉDIA</td><td>Como administrador, quero poder disparar e-mails de cobranças para os fornecedores.</td><td>8</td><td>2</td></tr>
+    <tr><td>20</td><td>MÉDIA</td><td>Como administrador, quero poder adicionar em massa vários usuários por meio de uma planilha de Excel, contendo as informações de nome, e-mail e senha.</td><td>13</td><td>2</td></tr>
+    <tr><td>21</td><td>MÉDIA</td><td>Como administrador, quero acessar o dashboard por uma plataforma web para agilidade.</td><td>5</td><td>2</td></tr>
+    <tr><td>22</td><td>MÉDIA</td><td>Como administrador, quero cadastrar usuários por uma plataforma web para agilidade.</td><td>5</td><td>2</td></tr>
+    <tr><td>23</td><td>MÉDIA</td><td>Como administrador, quero cadastrar, visualizar, editar e excluir fornecedores no sistema web, para manter o controle atualizado das empresas parceiras e seus dados de contato.</td><td>5</td><td>2</td></tr>
+    <tr><td>24</td><td>MÉDIA</td><td>Como administrador, quero prever o saldo (valor em aberto) a partir da data dos empenhos, para prever o saldo futuro.</td><td>8</td><td>3</td></tr>
+    <tr><td>25</td><td>MÉDIA</td><td>Como administrador, quando cadastrar uma nota de empenho, quero que o sistema web extraia automaticamente os dados principais a partir do PDF enviado, para evitar preenchimento manual e reduzir erros de digitação.</td><td>8</td><td>3</td></tr>
+    <tr><td>26</td><td>MÉDIA</td><td>Como administrador, quero listar e consultar os detalhes das NEs com filtros por fornecedor, urgência, período e status (ativa/finalizada), para acompanhar o andamento e os disparos.</td><td>3</td><td>3</td></tr>
+    <tr><td>27</td><td>MÉDIA</td><td>Como administrador, quero poder editar campos do cadastro da nota de empenho.</td><td>3</td><td>3</td></tr>
+    <tr><td>28</td><td>MÉDIA</td><td>Como administrador, quero editar os modelos de e-mail e usar variáveis para montar as mensagens e personalizar comunicações com dados da NE e do fornecedor.</td><td>5</td><td>3</td></tr>
+    <tr><td>29</td><td>MÉDIA</td><td>Como administrador, quero configurar e executar o envio automático de e-mails nos três fluxos: entrada do pedido, cobrança por atraso e finalização da nota de empenho, para garantir uma comunicação eficiente com o fornecedor durante todo o ciclo da NE.</td><td>8</td><td>3</td></tr>
+    <tr><td>30</td><td>BAIXA</td><td>Como usuário, quero poder redefinir minha senha quando esquecê-la, para recuperar o acesso à minha conta com segurança.</td><td>2</td><td>3</td></tr>
+    <tr><td>31</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema.</td><td>8</td><td>3</td></tr>
+    <tr><td>32</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema.</td><td>5</td><td>3</td></tr>
+    <tr><td>33</td><td>BAIXA</td><td>Como usuário, quero poder agendar exames para os pacientes.</td><td>5</td><td>3</td></tr>
+    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do agendamento para confirmado, cancelado e não compareceu.</td><td>3</td><td>3</td></tr>
+    <tr><td>35</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do exame dos pacientes para agendado, realizado, disponível e retirado.</td><td>5</td><td>3</td></tr>
+    <tr><td>36</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td><td>3</td><td>3</td></tr>
+    <tr><td>37</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td><td>2</td><td>3</td></tr>
+    <tr><td>38</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado.</td><td>8</td><td>3</td></tr>
   </tbody>
 </table>
 
@@ -150,14 +177,14 @@
     <td>06/10/2025</td>
     <td>26/10/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint02/sprint02.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>03</td>
     <td>03/11/2025</td>
     <td>24/11/2025</td>
-    <td></td> 
-    <td>❌</td>
+    <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
+    <td>🔁</td>
   </tr>
 </tbody>
 </table>
