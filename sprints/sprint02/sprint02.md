@@ -113,3 +113,13 @@ Points)</td>
 <h2>Modelo de dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint02/modelo-de-dados.png">
 <img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint02/modelo-de-dados-agendamento.png">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Mobile</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/6a081857-4e33-4f2e-84f6-5b45312cdf23" alt="MVP">
+<h3>WEB</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/e10e77e9-7f09-4c3b-a121-19cfb32aa821" alt="MVP">
+
+
