@@ -4,3 +4,6 @@
 [submodule "API-5-BACK"]
 	path = API-5-BACK
 	url = https://github.com/Sync-FATEC/API-5-BACK.git
+[submodule "API-5-WEB"]
+	path = API-5-WEB
+	url = https://github.com/Sync-FATEC/API-5-WEB.git
