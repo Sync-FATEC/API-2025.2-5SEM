@@ -7,6 +7,7 @@
 <a href="#dor"> DoR </a> |
 <a href="#dod"> DoD </a> |
 <a href="#sprints"> 📌 Sprints </a> |
+<a href="#mvp"> 🎥 MVP </a> |
 <a href="#tecnologias"> 💻 Tecnologias </a> |
 <a href="#padroes-de-commit"> 📨 Padrões de Commit </a> |
 <a href="#membros"> 👥 Membros </a> 
@@ -89,14 +90,13 @@
     <tr><td>28</td><td>MÉDIA</td><td>Como administrador, quero editar os modelos de e-mail e usar variáveis para montar as mensagens e personalizar comunicações com dados da NE e do fornecedor.</td><td>5</td><td>3</td></tr>
     <tr><td>29</td><td>MÉDIA</td><td>Como administrador, quero configurar e executar o envio automático de e-mails nos três fluxos: entrada do pedido, cobrança por atraso e finalização da nota de empenho, para garantir uma comunicação eficiente com o fornecedor durante todo o ciclo da NE.</td><td>8</td><td>3</td></tr>
     <tr><td>30</td><td>BAIXA</td><td>Como usuário, quero poder redefinir minha senha quando esquecê-la, para recuperar o acesso à minha conta com segurança.</td><td>2</td><td>3</td></tr>
-    <tr><td>31</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema.</td><td>8</td><td>3</td></tr>
-    <tr><td>32</td><td>BAIXA</td><td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema.</td><td>5</td><td>3</td></tr>
-    <tr><td>33</td><td>BAIXA</td><td>Como usuário, quero poder agendar exames para os pacientes.</td><td>5</td><td>3</td></tr>
-    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do agendamento para confirmado, cancelado e não compareceu.</td><td>3</td><td>3</td></tr>
-    <tr><td>35</td><td>BAIXA</td><td>Como usuário, quero poder atualizar o status do exame dos pacientes para agendado, realizado, disponível e retirado.</td><td>5</td><td>3</td></tr>
-    <tr><td>36</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td><td>3</td><td>3</td></tr>
-    <tr><td>37</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td><td>2</td><td>3</td></tr>
-    <tr><td>38</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado.</td><td>8</td><td>3</td></tr>
+    <tr><td>31</td><td>BAIXA</td><td>Como administrador, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema.</td><td>8</td><td>3</td></tr>
+    <tr><td>32</td><td>BAIXA</td><td>Como administrador, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema.</td><td>5</td><td>3</td></tr>
+    <tr><td>33</td><td>BAIXA</td><td>Como administrador, quero poder agendar exames para os pacientes.</td><td>5</td><td>3</td></tr>
+    <tr><td>34</td><td>BAIXA</td><td>Como administrador, quero poder atualizar o status do exame dos pacientes para agendado, realizado e cancelado.</td><td>5</td><td>3</td></tr>
+    <tr><td>35</td><td>BAIXA</td><td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td><td>3</td><td>3</td></tr>
+    <tr><td>36</td><td>BAIXA</td><td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado.</td><td>3</td><td>3</td></tr>
+    <tr><td>37</td><td>BAIXA</td><td>Como paciente, quero receber e-mails sempre que o status do meu agendamento for atualizado, para acompanhar em tempo real o andamento do meu procedimento.</td><td>8</td><td>3</td></tr>
   </tbody>
 </table>
 
@@ -164,10 +164,22 @@
     <td>03/11/2025</td>
     <td>24/11/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.2-5SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
-    <td>🔁</td>
+    <td>✅</td>
   </tr>
 </tbody>
 </table>
+
+<h2 id='mvp'> 🎥 MVP </h2>
+
+<h3>Mobile - Administrador do estoque</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/3ede8d2a-73e1-4283-9847-7c27a54e58a2" alt="MVP">
+<h3>Mobile - Administrador dos agendamentos</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/548dcfb9-a890-4c7d-b853-24e63eb141cc" alt="MVP">
+<h3>Mobile - Paciente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/0a14c722-ad68-47a1-accc-55dc79f9dd0d" alt="MVP">
+<h3>WEB - Administrador do estoque</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/8e3d8c4a-4423-4002-802d-1dc9a8a12c78" alt="MVP">
+
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
 <img src="media/tecnologias.png">

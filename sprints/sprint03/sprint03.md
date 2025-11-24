@@ -4,11 +4,11 @@
   <tbody>
     <tr>
       <td><strong>Capacidade estimada da Equipe por</strong></td>
-      <td>74 Story Points</td>
+      <td>79 Story Points</td>
     </tr>
     <tr>
       <td><strong>Meta da Sprint</strong></td>
-      <td>User Stories de rank 24 e rank 38 (total de 74 Story
+      <td>User Stories de rank 24 e rank 37 (total de 79 Story
 Points)</td>
     </tr>
     <tr>
@@ -77,50 +77,44 @@ Points)</td>
     </tr>
     <tr>
       <td>31</td>
-      <td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema.</td>
+      <td>Como administrador, quero poder cadastrar, visualizar, editar e excluir os pacientes no sistema.</td>
       <td>O sistema deve permitir cadastro completo e gerenciamento de pacientes.</td>
       <td>8</td>
     </tr>
     <tr>
       <td>32</td>
-      <td>Como usuário, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema.</td>
+      <td>Como administrador, quero poder cadastrar, visualizar, editar e excluir os tipos de exames no sistema.</td>
       <td>O sistema deve permitir cadastro e gerenciamento dos tipos de exames.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>33</td>
-      <td>Como usuário, quero poder agendar exames para os pacientes.</td>
+      <td>Como administrador, quero poder agendar exames para os pacientes.</td>
       <td>O sistema deve permitir cadastro de agendamentos vinculados a pacientes.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>34</td>
-      <td>Como usuário, quero poder atualizar o status do agendamento para confirmado, cancelado e não compareceu.</td>
-      <td>O sistema deve atualizar o status de agendamentos conforme seleção do usuário.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>Como usuário, quero poder atualizar o status do exame dos pacientes para agendado, realizado, disponível e retirado.</td>
+      <td>Como administrador, quero poder atualizar o status do exame dos pacientes para agendado, realizado e cancelado.</td>
       <td>O sistema deve atualizar o status dos exames conforme o fluxo do paciente.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td>
       <td>O sistema deve exibir lista de agendamentos e datas de retirada.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>Como paciente, quero poder visualizar os meus agendamentos e datas de retiradas dos exames.</td>
-      <td>O sistema deve permitir cancelamento de agendamento pelo paciente.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td>36</td>
       <td>Como paciente, quero poder visualizar informações de como se preparar para o procedimento selecionado.</td>
       <td>O sistema deve exibir em tempo real os agendamentos e retiradas de exames para os pacientes.</td>
+      <td>3</td>
+    </tr>
+      <tr>
+      <td>37</td>
+      <td>Como paciente, quero receber e-mails sempre que o status do meu agendamento for atualizado, para acompanhar em tempo real o andamento do meu procedimento.</td>
+      <td>O sistema deve enviar automaticamente um e-mail para o paciente quando ocorrer qualquer alteração no status do seu agendamento.</td>
       <td>8</td>
     </tr>
   </tbody>
@@ -129,3 +123,17 @@ Points)</td>
 <h2>Modelo de dados</h2>
 <img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint02/modelo-de-dados.png">
 <img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/blob/main/sprints/sprint02/modelo-de-dados-agendamento.png">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Mobile - Administrador do estoque</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/3ede8d2a-73e1-4283-9847-7c27a54e58a2" alt="MVP">
+<h3>Mobile - Administrador dos agendamentos</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/548dcfb9-a890-4c7d-b853-24e63eb141cc" alt="MVP">
+<h3>Mobile - Paciente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/0a14c722-ad68-47a1-accc-55dc79f9dd0d" alt="MVP">
+<h3>WEB - Administrador do estoque</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.2-5SEM/assets/8e3d8c4a-4423-4002-802d-1dc9a8a12c78" alt="MVP">
+
+
